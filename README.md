@@ -1,2 +1,2 @@
 # DFS-Digital-Flight-Simulator
-A home of my former Scratch flight sim
+The one and only free open sourced flight simulator.
